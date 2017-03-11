@@ -1,5 +1,17 @@
-# optionalCourseRegistrationSystem
-一. 项目简介  
+# optionalCourseRegistrationSystem  
+该选修课报名系统，采用nodejs搭建后台，项目依赖如下：  
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "excel-export": "^0.5.1",
+    "express": "^4.14.0",
+    "express-session": "^1.14.2",
+    "formidable": "^1.0.17",
+    "mongodb": "^2.2.19",
+    "mongoose": "^4.7.6",
+    "node-xlsx": "^0.7.4",
+    "underscore": "^1.8.3"
+  }
+一. 项目简介  
 1. 该报名系统分前台学生系统和后台管理员系统；  
 2. 学生和管理员共用一个登陆界面；  
 3. 管理员界面有管理学生界面和管理课程界面；  
