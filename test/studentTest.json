@@ -1,0 +1,303 @@
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce3e"},"courses":[],"grade":1,"name":"雷胜珍","password":"43ae6bc1dced31de3b039e1bdfc330ee46e8732af8b5dc801375df5c12c67237","sid":150104001}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce3f"},"courses":[],"grade":1,"name":"邰秋荣","password":"2a071c6e4f9f240591778859faaebd279545314718b355a47dcdb18e8b0361dd","sid":150104002}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce40"},"courses":[],"grade":1,"name":"左惠","password":"e054ee72f61db08b8675deaa9cca7507eb04f5aa8d3084964d82d1eb6f995ef1","sid":150104003}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce41"},"courses":[],"grade":1,"name":"刘莉","password":"54a60f8fcaaf13c910beef87d971bfba89f1d9abfaa23b68fe0e15795adca749","sid":150104004}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce42"},"courses":[],"grade":1,"name":"潘巧丽","password":"966e12cc510557a188dfec5c5ebce79b7b94dd7762124b571bb5d64544490d7b","sid":150104005}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce43"},"courses":[],"grade":1,"name":"穆显钰","password":"13c4267fff97d5edd8f39119f80f6d6f6436425abf29620a658339d9a70a048a","sid":150104006}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce44"},"courses":[],"grade":1,"name":"高杰","password":"dfd7b01b1fe0858de70b081e9f1073edb651fef31003203ac271173e2345d77f","sid":150104007}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce45"},"courses":[],"grade":1,"name":"杨文涛","password":"94b4239afcfd8df2f78058f77a327c4356098f9ad0674e6dc77b5a937f74900f","sid":150104008}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce46"},"courses":[],"grade":1,"name":"邰秋明","password":"d8ec7d615801c85763b2a4366322e64f364c7e53e17649c57c5a4ef0f1d996e5","sid":150104009}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce47"},"courses":[],"grade":1,"name":"邰梅香","password":"e57c611369e313b1433da31aa7e962a6255e2f637189151908462735a2955ea4","sid":150104010}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce48"},"courses":[],"grade":1,"name":"滕芳","password":"df0de6e2e9f971d83932719a06a5bcec3451c0a6db2f977ec5a875334938fe58","sid":150104011}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce49"},"courses":[],"grade":1,"name":"陈礼才","password":"41571f8dc705cced0bb0606081c06d4b056169a03d76d17ba7b381e592c7944b","sid":150104012}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce4a"},"courses":[],"grade":2,"name":"杨慧宇","password":"2c4ea307158cbd649647d1fa3a6e00d2e26120dd52323eaf8cfbb1be83d29d6f","sid":150104064}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce4b"},"courses":[],"grade":2,"name":"雷胜英","password":"e155c55251f967f169eef1d51efcf4a3e375c374d5bba07416ac5a7acbda4f15","sid":150104065}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce4c"},"courses":[],"grade":2,"name":"吴  毅","password":"9b1b5f69c5b18efb3b166db854d2a428b0f113be953b4bac7deeba26c64e7535","sid":150104066}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce4d"},"courses":[],"grade":2,"name":"王慧","password":"0680079b23b65e7da98510cf3178b9addcbfffb0153843d17342859c062437c9","sid":150104067}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce4e"},"courses":[],"grade":2,"name":"杨  寒","password":"a3c91a79bd0ac0ddff336493466e5eb016cb755f6f068a49fcf680159cf9be77","sid":150104068}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce4f"},"courses":[],"grade":2,"name":"何开龙","password":"81678876fe60fd368cdb3f4e3bd59edba658cc384aa8c89e8bc91bbf3683393c","sid":150104069}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce50"},"courses":[],"grade":2,"name":"肖方文","password":"251bd22f36aa4d9bdb0920bafccc33319ee460024af0f16468ed793b51d30d80","sid":150104070}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce51"},"courses":[],"grade":2,"name":"项林","password":"22a05deb00de536899545d82f4244bce9fc9ab3f7a1611c27e4940fa5289e733","sid":150104071}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce52"},"courses":[],"grade":2,"name":"杨佳丽","password":"37583b967b369281426d8042957fd286012d4067c36882a3fbfc16382e8d06a6","sid":150104072}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce53"},"courses":[],"grade":2,"name":"张花长","password":"39b27c3cf029dbac31f32bb7a641ec5eb2bc91d4a78cff0f20b1e209fc25e2af","sid":150104073}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce54"},"courses":[],"grade":2,"name":"夏嘉","password":"c0a50145678aabc66860c1fc36b73eca6516380886284de4b30b3e45a743451e","sid":150104074}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce55"},"courses":[],"grade":2,"name":"王映清","password":"4babbc094af004bf759bf587a6df8ea1c6055cc46de8b8fcb33367b8d0de0b0f","sid":150104075}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce56"},"courses":[],"grade":2,"name":"石吉龙","password":"dbc4297839017ca0f64b0024240698098d26cda1bcc059f70d119d1e12b9c21e","sid":150104076}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce57"},"courses":[],"grade":2,"name":"武文倩","password":"a2279e0c4155d637c03a6347e5d30d06631fd51f4283c557537421108f08b17f","sid":150104077}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce58"},"courses":[],"grade":2,"name":"许海燕","password":"1074229c03a90244daa8cf4da5d45cab8387d6f9126a89ea0567781434956f6b","sid":150104078}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce59"},"courses":[],"grade":2,"name":"全忠友","password":"310f07b68b5c78d6d1be4afa85bc85d20b42bd2a1ad9babe10046cb5891c83f8","sid":150104079}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce5a"},"courses":[],"grade":2,"name":"杨小龙","password":"2a4dadbe924d4fca8af1fe9cd8da3ca2091588101803d28290d7b72a3d5f9d00","sid":150104080}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce5b"},"courses":[],"grade":2,"name":"邰金龙","password":"a8a63f0d75aa4d1ccc4186ae848adaeb14fafb1fedc1c6147595f8782d3982c4","sid":150104081}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce5c"},"courses":[],"grade":2,"name":"江  苹","password":"353bdf7d825ae511ef3965e29fd8862de6c29f308aea6981b6c721f87013a31e","sid":150104082}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce5d"},"courses":[],"grade":2,"name":"魏启波","password":"5746674a0a1562448a8dee4d5b03632db422c67b95e2679d286e67ea890260f5","sid":150104083}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce5e"},"courses":[],"grade":2,"name":"龙景玉","password":"e3455626179086994b4c95f68e080fe5a8983055943d37c5eb1cfecd6bf3acf0","sid":150104084}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce5f"},"courses":[],"grade":2,"name":"吴成隆","password":"fcb76d56e9473cf5d191760be92a5b9a4236736cb17def109d8db942db4691f2","sid":150104085}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce60"},"courses":[],"grade":2,"name":"邰林明","password":"4d7ad2588d678386e8419780bdc552e739de7ab1700613705d977b2419537c30","sid":150104086}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce61"},"courses":[],"grade":2,"name":"罗洪杰","password":"f793e6fa76ef3086421bd257f6b4fe591b5bfaeef90be7fbfdb94fefb4c1c513","sid":150104087}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce62"},"courses":[],"grade":2,"name":"杨文财","password":"dee69090efc2ca72b62546f0efd4342aba3694d0bf7ffb52d064748a327dcb06","sid":150104088}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce63"},"courses":[],"grade":2,"name":"熊天宝","password":"82c2e7327c9ef22317fcaab288d4e6e5147058beffa6a5b1162adf8c8a64d636","sid":150104089}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce64"},"courses":[],"grade":2,"name":"李娟","password":"67b86445cd9e94e5bd5a4ba9ada48b475f6b8e0f58de1ae8e08b153e89e539ef","sid":150104090}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce65"},"courses":[],"grade":2,"name":"全宗莉","password":"2dacc2a53d90c3bae0f95fba5a08f4c1fbf8d58692fc6530c43cad0361c26718","sid":150104091}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce66"},"courses":[],"grade":2,"name":"杨兴","password":"199786387fb3c1edf4f297c3e7fe5e9695e4059833b73c54ffbd35e60e726e57","sid":150104092}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce67"},"courses":[],"grade":2,"name":"龚虹霖","password":"9e797353fe569e2db54739ad9c55682dd49256149eb10766d05d158e56914842","sid":150104093}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce68"},"courses":[],"grade":2,"name":"吴  淇","password":"90ba6821e96e528e36b09d76c7a500164348f2c8617f40a72d989cf076ef62e7","sid":150104094}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce69"},"courses":[],"grade":2,"name":"李光萍","password":"ed7e0096ddf1a32401625068a575bc42e8433afd9372105d6d7578b6cff81d4a","sid":150104095}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce6a"},"courses":[],"grade":2,"name":"王章洪","password":"58a35b3bbe953567204f536e283d10e6007c616496ecb1c2eb2a31f0371dba0a","sid":150104096}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce6b"},"courses":[],"grade":2,"name":"陈  龙","password":"5adda535a5419344e8d65032d6573ff95d81b818666e04ab8e6b80fbbebc03af","sid":150104097}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce6c"},"courses":[],"grade":2,"name":"龙运旺","password":"75ba3498f665dda901715d3f8f15d339b813fd6bc7df4c520d74aeb0e4d0d973","sid":150104098}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce6d"},"courses":[],"grade":2,"name":"罗康康","password":"0b2f70fa36e5a84ad64fc24f8c5716175b03f56f41352b3f66f0540888ebad21","sid":150104099}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce6e"},"courses":[],"grade":2,"name":"钱洪丽","password":"acfb5d86d1b4ba87314554804024106daf5606a03d3757245abf94e3794b3bb1","sid":150104100}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce6f"},"courses":[],"grade":2,"name":"吴  彤","password":"c4a7a861cce75234c926daed55fd4d68de737062608298ccdcba9e9af503798e","sid":150104101}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce70"},"courses":[],"grade":2,"name":"程星龙","password":"5489f96002f621f5a8d7a831ac66850f40a3b63f40a0338aa9032738b24d3b57","sid":150104102}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce71"},"courses":[],"grade":2,"name":"杨光琴","password":"f74cd593112744472cf921750f7ad6f4d05901757199ea41c1c2a362b784fdc5","sid":150104103}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce72"},"courses":[],"grade":2,"name":"钟国明","password":"368920fb9ff963dea2eba9ff89b0762e8d6a30e44510bbdd85fc7ed76a932fd6","sid":150104104}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce73"},"courses":[],"grade":2,"name":"孙明斌","password":"24b59df6b9b7bfb8b39b2c89c33fbab90fd0a0ab08c62625c85c9218c89f0678","sid":150104105}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce74"},"courses":[],"grade":2,"name":"余家兴","password":"3109ab35fd6aa6596052b796893765c5db5c4685f26ffd28af35fe581df66ffa","sid":150104106}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce75"},"courses":[],"grade":2,"name":"雷胜民","password":"e8edb8486de632aadaab45c16db30ef0d70098c6a4db3271618648cf4ab243f8","sid":150104107}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce76"},"courses":[],"grade":2,"name":"李百万","password":"56ef7e35b11df60320ec49e0cca04367bcdc526518910d017465e220cddd426b","sid":150104108}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce77"},"courses":[],"grade":2,"name":"朱溶艳","password":"c7c5079848aa0c0938355313b3bbb3743b62e95299adc8fd9e17f608d0ddab50","sid":150104109}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce78"},"courses":[],"grade":2,"name":"李万友","password":"a8d820ab4b448cc2c35a89dc3a028567f58a6429b585b352a13bec23abf56f94","sid":150104110}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce79"},"courses":[],"grade":2,"name":"龙通华","password":"86d9d37c89eb8e2f6ed729cf04362ce9c86fa2f1f1a8547f3bd601f0e0c47672","sid":150104111}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce7a"},"courses":[],"grade":2,"name":"刘婷婷","password":"e80ff106ac8873739c3bac2980cb2b066e2fc90c61220b3acd1e41d7267067ca","sid":150104112}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce7b"},"courses":[],"grade":2,"name":"杨景燕","password":"26a571d21ca670cc3883e8dca887c810b69ad943b67bf6b38e5d0b26363816a0","sid":150104113}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce7c"},"courses":[],"grade":2,"name":"陈功碧","password":"2e905b226d0cc19b020abe845d960d495cce3a9b35c34cc97df16884e1292e76","sid":150104114}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce7d"},"courses":[],"grade":2,"name":"邰金花","password":"164608c1a2dc29145b86238656a18d881f45a92b0154fe01d7e17b36a0c64e67","sid":150104115}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce7e"},"courses":[],"grade":2,"name":"周念梅","password":"8f34f92bb437141cf60ef73426e680c3986c7dd1d45fdf303c50a34571db3d91","sid":150104116}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce7f"},"courses":[],"grade":2,"name":"潘盛林","password":"c172309929b603e2ca82329dc66581c397f47d5ab00ca7a2baac3ca28b141236","sid":150104117}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce80"},"courses":[],"grade":2,"name":"蔡明瀚","password":"0ff1fb0aa2c03d9e4eb1854b9bc9d86cb03aace62a0d1781e4e503403c83c7d6","sid":150104118}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce81"},"courses":[],"grade":2,"name":"孙明红","password":"fd2cbbda971575b112532d0b2abc6f65c0d2718f611371bff83e1e9ccfff5366","sid":150104119}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce82"},"courses":[],"grade":2,"name":"王树亮","password":"ac263cfcab040f478ecf5de232eff482f098db197ed24efb1942c394766798dc","sid":150104120}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce83"},"courses":[],"grade":2,"name":"杨廷彪","password":"60041cf51cd19a3363e6352911e8211398cef78f1605daf8ec7c58f469574432","sid":150104121}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce84"},"courses":[],"grade":2,"name":"李明珠","password":"cc9ca2f4368d23ddcc37f89dcdeb4438ceacdd866983035262ab6c26cbf9015f","sid":150104122}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce85"},"courses":[],"grade":2,"name":" 唐苹","password":"40f89a34dc04615ced88fedc3e94b146eb85a3d740307538f6a65956f76b330c","sid":150104123}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce86"},"courses":[],"grade":2,"name":"邱梦","password":"4daf67ac787ab3f27127b5a4a43bc1fbb7a5f4a6ab0c0d486776adc7deffb6cd","sid":150104124}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce87"},"courses":[],"grade":2,"name":"吴春萍","password":"93758dc7207d41483155938f4d89f8da22c379d3d7b58b594eb54d97e2033fb9","sid":150104125}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce88"},"courses":[],"grade":2,"name":"吴萍","password":"df10c3608e2248b164d2b0ed346fcf5c796916c589de0f44fa776cfa7ec78d23","sid":150104126}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce89"},"courses":[],"grade":2,"name":"余慧","password":"7ee5c05c0cdf947e7b70cb290ba08c1ae57d43500867b6e2615228485a3e6188","sid":150104127}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce8a"},"courses":[],"grade":2,"name":"邓国军","password":"753ec03c46e889eab107d0d742260c62d6551bd1458fd5e560a2a5561282ebde","sid":150104128}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce8b"},"courses":[],"grade":2,"name":" 罗云霏","password":"5cda557f28911facb851d3fdf5e1358d68487c31f1da6bd2f0edf183d2d1064d","sid":150104129}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce8c"},"courses":[],"grade":2,"name":"吴金玫","password":"382213ef8cd63c4b98494abdd5bbca19eac18e35af0f3627e1b2d283d7d24f61","sid":150104130}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce8d"},"courses":[],"grade":2,"name":"刘福兰","password":"d7e739117f089775f64ec5ab1ad0d80c884c5860f1786cb2ef125137786df4df","sid":150104131}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce8e"},"courses":[],"grade":2,"name":"杨佳玲","password":"61cadea3dc66f0cdca545fe0907994dd3905c2264e196f69c426c1726b1790df","sid":150104132}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce8f"},"courses":[],"grade":2,"name":"潘丽","password":"d48ce8c7359137163a12d6eb33dc47c912563015521a6167f0c0dd9101590d9b","sid":150104133}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce90"},"courses":[],"grade":2,"name":"李蓉","password":"dd80616247156b1ebbe88b6babd4312c41d0beba2389eda64407cb6c1480f823","sid":150104134}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce91"},"courses":[],"grade":2,"name":"罗小珍","password":"f7ca424d939fba1c6b923ca673a5422435df2f22af04542eb994a9ccdcc43087","sid":150104135}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce92"},"courses":[],"grade":2,"name":"周书同","password":"52460fe8c8c73d8255d33de7ebd67518ba785053f5ffb1f9f7ee736d15324440","sid":150104136}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce93"},"courses":[],"grade":2,"name":"蒋倩","password":"6adf87e0e2ae7fc1b8105dc4ba453791f60a5f5a651cd0a9defcc32156a53949","sid":150104137}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce94"},"courses":[],"grade":2,"name":"倪建","password":"78b3fe8eb4294ae54e8fe29185d2ac87916fde657c8d26964f8a344f540058b4","sid":150104138}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce95"},"courses":[],"grade":2,"name":"陈润忠","password":"cd0903ca2927096b4a9b649b1382dddb35a5906e4bca71dae6318e211d570369","sid":150104139}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce96"},"courses":[],"grade":2,"name":"田莉","password":"26107bf246d1ba819a7f4198de2de756a2e8842284ec86f508c3c028e34d6895","sid":150104140}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce97"},"courses":[],"grade":2,"name":"刘之祥","password":"fd400cd07d6e0389f161b4e6268c4896fdf1a6fa975af373326d7f2cb2092586","sid":150104141}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce98"},"courses":[],"grade":2,"name":"王庆黎","password":"cc03b1d91afcf530f7b927a6f6bf181fdd35a8f70d902547c9920fbed29f81ae","sid":150104142}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce99"},"courses":[],"grade":2,"name":"王倩倩","password":"d09edf6a0cc6ac1ef05684ed7a1230ce69fb267c76843f00da4a0b3e333f1907","sid":150104143}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce9a"},"courses":[],"grade":2,"name":"涂酉竣","password":"cde029e9dd3fc91fc3b964ba8bdd792541b6386d53a2becb1e255ae190b4318f","sid":150104144}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce9b"},"courses":[],"grade":2,"name":"杨静","password":"ac2716981ffe7ac7a0de75bf8e8700d0414e6669d429f1834c198f7212f04fcd","sid":150104145}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce9c"},"courses":[],"grade":2,"name":"何川黔","password":"c73c4efa6c016d7d9136ebd296b3df0a755397808dccd40b301fc935196ae575","sid":150104146}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce9d"},"courses":[],"grade":2,"name":"张正新","password":"8ff1c232b22876a48eec281b034af8dc73421a569d5a8596ab55b36778d72761","sid":150104147}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce9e"},"courses":[],"grade":2,"name":"罗雪立","password":"b06380a9bb97ee776b76f740239d3576b299c42cbd13f9591c8440050169664b","sid":150104148}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebce9f"},"courses":[],"grade":2,"name":"杨武秦","password":"87eee0e67b39d725bf7b56a98e8812028afc316ec0cbc5a57fb3c0e25ccd71b2","sid":150104149}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcea0"},"courses":[],"grade":2,"name":"张兰燕","password":"80c60823db536c29210995b29af6c0a493bea5172329a9367028ad5c95905a65","sid":150104150}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcea1"},"courses":[],"grade":2,"name":"陈守西","password":"da4dde7158625cd9775a3f0066e51dcd886d602a44d2fe674ab7aa03f6209a75","sid":150104151}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcea2"},"courses":[],"grade":2,"name":"吴国安","password":"f9b0cfddbd2339f80ef29ab7bb39ef7d6d84ca5cb2ef64dc0251b05f11d3660d","sid":150104152}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcea3"},"courses":[],"grade":2,"name":"袁阿明","password":"07275f6484ce6d72082ccf3975c1d360b0e1988c5f2e8c37e2e551949ba17f99","sid":150104153}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcea4"},"courses":[],"grade":2,"name":"潘燕","password":"ee4af7385673e0af8b4fd72fc92b140508cd741cf97c14695cd8334ca2533d38","sid":150104154}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcea5"},"courses":[],"grade":2,"name":"王成龙","password":"a83a69d489f440110146e0e168b0090ae3859e489776d6283a3dd1138c7861f9","sid":150104155}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcea6"},"courses":[],"grade":2,"name":"杨通发","password":"52cfe1ebb6e9eb3439416a0c0499a067023413293a84c2776c176483d96ecb21","sid":150104156}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcea7"},"courses":[],"grade":2,"name":"秦昌林","password":"303eb29ccb8b2fb61f320480504680006eb2fba5d9cc96f5c15a677e914c5512","sid":150104157}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcea8"},"courses":[],"grade":2,"name":"吴昭东","password":"03d366e5d9c73f736a085aeb7ef02ac3866e2e535a67f359d0d42fe20a373d96","sid":150104158}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcea9"},"courses":[],"grade":2,"name":"田甜","password":"e61b6ec7defab7c4bea5e139538467e405e5b2a05ba14bed4a2c533b6fbb89de","sid":150104159}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebceaa"},"courses":[],"grade":2,"name":"王恩珍","password":"16fca1b5880b35e67685201c61bd5f830a2573ae32fa2088f523effbc8eccb25","sid":150104160}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebceab"},"courses":[],"grade":2,"name":"王木林","password":"6c653dab5bc800eed5c709215f7682fe93297b996d58bf9f888c110ea403f57e","sid":150104161}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebceac"},"courses":[],"grade":2,"name":"杨文彪","password":"507080ffdcabcb878e1362ddc9b53c52a96b6e9f45ad86203257166f7d0772cd","sid":150104162}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcead"},"courses":[],"grade":2,"name":"孙隆军","password":"293aee872fa3959b58ad3129542d01bd1eea8d6e1821a693456b382a868440d9","sid":150104163}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebceae"},"courses":[],"grade":2,"name":"杨棋","password":"65feae3380d385feea59d8b7434370a41bbc853a83b18077ab86a101d16597c0","sid":150104164}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebceaf"},"courses":[],"grade":2,"name":"罗俊","password":"035e7ab6cf5fe9382890bbc6ae7d255b1fd6077c84d55b2749388ac23c4f443f","sid":150104165}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebceb0"},"courses":[],"grade":2,"name":"杨双","password":"31167ef202a683b8d5e73a72f31be00e1f71ade8d0d878321381d740b8f64e27","sid":150104166}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebceb1"},"courses":[],"grade":2,"name":"杨佳淇","password":"59920bd80b6b3f60d34a6c578c3cfa05ff40f5025c2b5a3b6c002d9b0a667277","sid":150104167}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebceb2"},"courses":[],"grade":2,"name":"舒琼琼","password":"6e84549354d15a031f206096f8e941988bf016dfa24977f62112f42e7de4e462","sid":150104168}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebceb3"},"courses":[],"grade":2,"name":"杨昌银","password":"9c2a5da37f6428e7337671a6fb877cca8a10faeec958c6b1caa925b39ff8f2f4","sid":150104169}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebceb4"},"courses":[],"grade":2,"name":"黄良发","password":"f95bd356af790b658db3e9deaf45b24c437c5d49d11606e2b70d39dddc70498a","sid":150104170}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebceb5"},"courses":[],"grade":2,"name":"陈礼良","password":"dfd01b39cbf9d7759463df0ea8a5204fa4dfd4ffbfce2d80a173e95c711a94a7","sid":150104171}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebceb6"},"courses":[],"grade":2,"name":"向浩","password":"5db49a5b661a9a604e1fdf5b792485166551b27e8e2a4d3298065a0be2f5d3ac","sid":150104172}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebceb7"},"courses":[],"grade":2,"name":"姚鑫华","password":"da61b071b6fd82f56d70eadc8330cdf859e49dd0c8153733a33ad9f42591476d","sid":150104173}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebceb8"},"courses":[],"grade":2,"name":"梁高彭","password":"64819c29d81860adc415476a61d00330fae121b26641dbc9d0df22845a68fe80","sid":150104174}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebceb9"},"courses":[],"grade":2,"name":"刘凯军","password":"322fe577bc0623e68e901501382f36cae21683cda759b176ce8977998245bc4f","sid":150104175}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebceba"},"courses":[],"grade":2,"name":"钱毕辉","password":"ff551d4064d005abaeb28686c789f17e8bced67bf53d0189b931a908a380cd9e","sid":150104176}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcebb"},"courses":[],"grade":2,"name":"姚云涛","password":"e4969832f1cc95a9d7f6283508d8bbe76bc44a831e2c135ea32f937baa6da444","sid":150104177}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcebc"},"courses":[],"grade":2,"name":"潘明","password":"0d6c06342dc56ba27ec65ab4850ac69c47aefdabecbc513f2aad9d9bed827b13","sid":150104178}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcebd"},"courses":[],"grade":2,"name":"梁厚菊","password":"9e735d27c49651fffe8a7983930b2de6309cc12055fefe70b71f2f6f8c3ec52d","sid":150104179}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcebe"},"courses":[],"grade":2,"name":"梁祖香","password":"c85ed55f53d18175b31134842dbb32b6092d25e04a93c89026fa8e3a77682afd","sid":150104180}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcebf"},"courses":[],"grade":2,"name":"舒孝洁","password":"a80633c48b91c827e435e6afddd15799c0a442d32f2175d8cc3bb5c164d0d66a","sid":150104181}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcec0"},"courses":[],"grade":2,"name":"舒志贤","password":"89597c652c330eafef388de24b7befa871c3758f0ed132c2c85ea6e6fb0cdeba","sid":150104182}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcec1"},"courses":[],"grade":2,"name":"杨代林","password":"aba8c507c5974802b2e7dc589cd1ea4f380662f934c455d6db3256ad4d6319da","sid":150104183}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcec2"},"courses":[],"grade":2,"name":"郑洪","password":"0d7c037b99c2c462d63c19d08799c64341f0b1771e201c115cb09f2aa8daf72c","sid":150104184}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcec3"},"courses":[],"grade":2,"name":"胡伟","password":"25a083ae5921f5a4f95a5773d9727ad8d9e6bbaf59ee7ba785cdad857ee4abca","sid":150104185}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcec4"},"courses":[],"grade":2,"name":"姚行","password":"3d75892b880f279c10c10339091ab608a5fd8cd21b0c1e923da4f8efa5854502","sid":150104186}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcec5"},"courses":[],"grade":2,"name":"龚红恋","password":"c94a9295fd1c6555c5b98bf7cb2ecabc68f7fc2b91f7d38733ca6332ede9a49a","sid":150104187}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcec6"},"courses":[],"grade":2,"name":"宋登辉","password":"4288ab0782aa02e8b6dc63e22857143857bd63bafaa44035898373a0ee4c77ce","sid":150104188}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcec7"},"courses":[],"grade":2,"name":"罗冲","password":"7e75e3e171d72404af63714f84b8d61ba7463f89b8cdf37a081cc177cf4f20bf","sid":150104189}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcec8"},"courses":[],"grade":2,"name":"熊平","password":"3113c7554eeef723774e926f7c4c6a983d1bda74bcfa8952859bd7f5528cca99","sid":150104190}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcec9"},"courses":[],"grade":2,"name":"杨福青","password":"90916dd0f0b49e9db2a1ae1843c9cb3e3515072ae8daf074a44be4f488a3c933","sid":150104191}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebceca"},"courses":[],"grade":2,"name":"王丽","password":"9476ba34cc41d48c245f33a2a0264c8ffce04f2edb7ef809fe828f55a2f7a594","sid":150104192}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcecb"},"courses":[],"grade":2,"name":"喻翔","password":"24bcc74d8d51d53334464cb27c44fff1de31b63943b56a66ace5c26cea2502ad","sid":150104193}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcecc"},"courses":[],"grade":2,"name":"廖俊","password":"fb8474c846352f820d5b068124e2470dddfe27395ff6b6ef334340b788a7deb6","sid":150104194}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcecd"},"courses":[],"grade":2,"name":"谭翻","password":"22ef32329c09c7a4e2d819543964228b80316af738af53878c81dc69af6873c3","sid":150104195}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcece"},"courses":[],"grade":2,"name":"李梦娇","password":"a2f39b70b05424c9e043c81e4de244e288ff4cbdbed709a80369d4e21571b806","sid":150104196}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcecf"},"courses":[],"grade":2,"name":"江显斌","password":"3d26ab4e42e402d7cd5886f357dc04e7fe51d148daa0ce48f6d2f23c14d6f8d4","sid":150104197}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebced0"},"courses":[],"grade":2,"name":"杨志华","password":"eb5738dd86659f15b7fd8a8a59ac0e9a8872fa8271ee937e101f35443c74e8ab","sid":150104198}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebced1"},"courses":[],"grade":2,"name":"陈东","password":"85dba48b555d434e33442e1177944c08f323acd9e2969696392a24f97f11636f","sid":150104199}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebced2"},"courses":[],"grade":2,"name":"张良德","password":"4582c69afa9a37e064f8942f69eba6d4f9f975ef4190ac98d6d4f4fb18eeb985","sid":150104200}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebced3"},"courses":[],"grade":2,"name":"潘浩镜","password":"fd958a9e2d3e91a5be0e86ecfb9a039921781fc5b373f1dcfff4b44090174cdc","sid":150104201}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebced4"},"courses":[],"grade":2,"name":"吴应才","password":"b74f829a291d2478476d0d5395429c4fca13bd0ee2263fb4254d3d113e8ceb71","sid":150104202}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebced5"},"courses":[],"grade":2,"name":"肖芳银","password":"59fd523c81b9f9bb1ee9e20729263695fd20ebc0dd8eca8a789d3a248e4413ad","sid":150104203}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebced6"},"courses":[],"grade":2,"name":"魏万文","password":"853aa632be80e6aef8d69d3cc092766310cacc2c788882a05aa5e5735f541cf1","sid":150104204}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebced7"},"courses":[],"grade":2,"name":"林琳","password":"0b06cd1bee5c4d27f3bd1830c831aa2751dbea29b2ac9cdd4ee89b8c6c238bde","sid":150104205}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebced8"},"courses":[],"grade":2,"name":"冯朱康","password":"b2ece2ce19204d2b381252c77dbb701d469af35e3242395cf22704cde6d0bbeb","sid":150104206}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebced9"},"courses":[],"grade":2,"name":"宋洪静","password":"9c5380ba973bbf5a8ca2f70b0801d0096dedc474d4881b9c747df6e8015ef289","sid":150104207}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebceda"},"courses":[],"grade":2,"name":"罗  波","password":"740b63c2977e45e56e50e1d33772074ecc459c3fd40d45393d46b744711c34b7","sid":150104208}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcedb"},"courses":[],"grade":2,"name":"杨  婷","password":"a633e5928020e85e05c3ac69d8dc2c50e3e7acd35cec84d6b8829b98e79dfcd2","sid":150104209}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcedc"},"courses":[],"grade":2,"name":"余  粤","password":"a513e81129e5c2cace7224bec2c01e9cdb7ab5a6c429ae94e2cba6e50b4ee421","sid":150104210}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcedd"},"courses":[],"grade":2,"name":"涂有斌","password":"594d31c99425cad7db171c9ee85b729d68590c5182a1ecdc01b307e5c8151dbb","sid":150104211}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcede"},"courses":[],"grade":2,"name":"李  敏","password":"f3352b339cbacc9eeed34ec745a9fa1c66a99872901ed9f24a87ce11a118b60a","sid":150104212}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcedf"},"courses":[],"grade":3,"name":"陈传敏","password":"a5f3f719e056af29cc5e128eaa1f7c36346898224c75313843a7257b9966d024","sid":150104214}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcee0"},"courses":[],"grade":3,"name":"罗世元","password":"86d90409c2d1b74e03dad21c5ba06a81875ba7d2ff9e38671e700b5db9f988df","sid":150104215}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcee1"},"courses":[],"grade":3,"name":"徐晓云","password":"17b9d054ea82d1747f10d86e74013f90c78c84d84a5cd3d831844acf286baff5","sid":150104216}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcee2"},"courses":[],"grade":3,"name":"吴金华","password":"e1c99711215a36ebdd473ba851fd34d8ba7c177690de1e51974c830cfe97312c","sid":150104217}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcee3"},"courses":[],"grade":3,"name":"全大池","password":"d208ed5868300eff0856378066748b17786fdb62e03812d2e77ff123fd4e27d5","sid":150104218}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcee4"},"courses":[],"grade":3,"name":"左  念","password":"f906714cac91bb373852946cf5b211417946e763299c22abcbb07c04e9980a40","sid":150104219}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcee5"},"courses":[],"grade":3,"name":"陈  俊","password":"59c902668fa2218c46a62b1fcbb41eff3e54f0a8799a59df5691694eb5b213a9","sid":150104220}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcee6"},"courses":[],"grade":3,"name":"张文静","password":"e644148fb2b2b26094d26b557872b43bd0cd1b8723c4a2fdcbe77dfd267da1ea","sid":150104221}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcee7"},"courses":[],"grade":3,"name":"杨武元","password":"97a841d52af714b4cba5d9bfd9e001929cc79566526a21acb439deca87a6325a","sid":150104222}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcee8"},"courses":[],"grade":3,"name":"钱  露","password":"f4f8641adeb94a958bcb0c6084b2b4b3cfcd5425eebb09569299f6c931e51c7f","sid":150104223}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcee9"},"courses":[],"grade":3,"name":"陈礼波","password":"9c347149a7d14a5f9846b6108a98b3ace4aea18d5f9a9a447236cd0e498a485d","sid":150104224}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebceea"},"courses":[],"grade":3,"name":"张志桃","password":"1e346136cfc3b5d33f9641bcc9a6f3d3c80afd846420fa13d19cd71e48503fbd","sid":150104225}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebceeb"},"courses":[],"grade":3,"name":"夏千萍","password":"4622ff102823ecbee1bbe3e4209483a96faa42f95b55689ba871bf89dba70920","sid":150104226}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebceec"},"courses":[],"grade":3,"name":"杨雪梅","password":"3f3d3582615822e17862c0eff79b265a1bf3ba40670985f1369035c309a25950","sid":150104227}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebceed"},"courses":[],"grade":3,"name":"文正启","password":"623fc6c2291ae0bafc2fd307af9bc2b82ade10ed84c8a488a46e392b1dc61bd6","sid":150104228}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebceee"},"courses":[],"grade":3,"name":"刘太群","password":"e99a40364dd598471b7b7ee5d8efd798777c6aa99d72fb9f88e4317d0ad9d188","sid":150104229}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebceef"},"courses":[],"grade":3,"name":"杨廷先","password":"553f54ac15ac7dc11d306dd5fb8ce152e787a75b8839e690a5344a6cd3452665","sid":150104230}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcef0"},"courses":[],"grade":3,"name":"钱  瑶","password":"7d511b8b6685a44fe7adcbef6f5931500ee32317f12b70a2e49c5fe725448726","sid":150104231}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcef1"},"courses":[],"grade":3,"name":"吴  伟","password":"713a5ca9d3e855fa5c7c5c549a3715bd11c90e4fa2a94f564f4b30d5d60b1978","sid":150104232}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcef2"},"courses":[],"grade":3,"name":"曾计香","password":"41d4afcb2363917f6ec162471dc7f1245ae5ea477dbc54ea7cd21711cbbe2b5b","sid":150104233}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcef3"},"courses":[],"grade":3,"name":"唐仁波","password":"5503f83d4fd080f65ac8a530e7a05f02e7a262339cab919310ec9620a543d239","sid":150104234}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcef4"},"courses":[],"grade":3,"name":"杨  侦","password":"9c14489330d9d6b9e1896a2e48083ac4ba374da7adef2eddde2844703b5450bc","sid":150104235}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcef5"},"courses":[],"grade":3,"name":"叶主义","password":"bd5045a4aca279fb26fea6dad234f42bebfc1dba24be47bd692a31db94f2428d","sid":150104236}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcef6"},"courses":[],"grade":3,"name":"关火英","password":"6933a3e077021832919e227f8fc2d628a409070087c7244ae244446310046a2f","sid":150104237}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcef7"},"courses":[],"grade":3,"name":"李朝海","password":"5905a943ac5e9ac9c125c97e6b31f5dac5a9c95ea8318c61bb332aebb24d241b","sid":150104238}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcef8"},"courses":[],"grade":3,"name":"周海燕","password":"e5339f002a7f701425a337b5d8140a653da7d487e337e12d767db1102736ab41","sid":150104239}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcef9"},"courses":[],"grade":3,"name":"全宗权","password":"c1a94403b3190d88e2705749fd2123138d0eed0fe89d8ef6640b00c297d7e471","sid":150104240}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcefa"},"courses":[],"grade":3,"name":"龙莉莎 ","password":"f140c3706a05d092ebbf84164b2f13e81bec4619f99c523a413147cf75305933","sid":150104241}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcefb"},"courses":[],"grade":3,"name":"黄  浪","password":"721188b5264be9200b92654d8ed77463a94f651ff9ce1a393853be73bcef37b0","sid":150104242}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcefc"},"courses":[],"grade":3,"name":"冯朱娇","password":"d49cd070b25b13892707875d9f2c6fe374a6c333a21389e3d96e7a69c2689b28","sid":150104243}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcefd"},"courses":[],"grade":3,"name":"叶祖培","password":"cba68a02792339f9bfc64d96cf1f0e3e40569302dfd4b03baf187060563a0517","sid":150104244}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcefe"},"courses":[],"grade":3,"name":"唐亚萍","password":"bfb3782b4ebbe0cfb4f270ab7d38e3a6a6bcc4f3129cb0d42a777861a0bf559b","sid":150104245}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebceff"},"courses":[],"grade":3,"name":"龙  旋","password":"7be37ed3195d992472f8e711fc532b60746b10fbe56f612e2088baf18003c745","sid":150104246}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf00"},"courses":[],"grade":3,"name":"龙凤美","password":"ac5b0d5c9b2e883cf06d165d6dac4eb916ba3bb82f50c3cbe3780d58a57dbc38","sid":150104247}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf01"},"courses":[],"grade":3,"name":"代祥龙","password":"fdfbb3723b276cb1612bdd312a36031d6a586b1eb3d1112bcab0329d979218fd","sid":150104248}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf02"},"courses":[],"grade":3,"name":"刘兰兰","password":"dbc3cfb54c4f56dfe4e65475984a3c6df00ab9d35ee32f2610311b1f08107c51","sid":150104249}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf03"},"courses":[],"grade":3,"name":"龙宪杰","password":"2bc5f50bbc7fd26aea3a085de71f6830f60d1668923a40e79f4e581cc112fb8e","sid":150104250}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf04"},"courses":[],"grade":3,"name":"姚元琼","password":"7b097edb74b966ae8bf49bea51c3a0dfdb5e558650fb8cc061b91b06155d8252","sid":150104251}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf05"},"courses":[],"grade":4,"name":"全宗普","password":"52d32084ef364f0105da65e1f34601d5333d20f920c14325bd91fff6f2171224","sid":150104253}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf06"},"courses":[],"grade":4,"name":"杨通辉","password":"1169581adf5aa73552ce371ec9164f3c738c40b0ce5cb89898cd29ff15446a9a","sid":150104254}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf07"},"courses":[],"grade":4,"name":"雷红燕","password":"3cd3ef7b5f038fac9f17de972148fddb4181ca7b692cce9c78906c4f9f80fd9f","sid":150104255}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf08"},"courses":[],"grade":4,"name":"潘成明","password":"d0c4f39ab5affb370ba927739b8b90ff34ff70f29f945dfa375e09e35fb053d7","sid":150104256}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf09"},"courses":[],"grade":4,"name":"徐  婷","password":"286cd247a3af8473671f3b50b56f05b25f06830bfef1552672b918ce1066e5ae","sid":150104257}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf0a"},"courses":[],"grade":4,"name":"梁绍伟","password":"b260f8d9f07d5a01ce52c86ae64e6e887bea3dc63ebbabe825bd91b319b387af","sid":150104258}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf0b"},"courses":[],"grade":4,"name":"冯朱婷","password":"cebfe6e8404ffafd444ab6874c855aed4d9575922c02e1ee8c5191ff7345021f","sid":150104259}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf0c"},"courses":[],"grade":4,"name":"龙景航","password":"c7466adcd5f9007d6e4b3b37d28bf4ba37e665823a169e6192127c349f13f50d","sid":150104260}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf0d"},"courses":[],"grade":4,"name":"毛瑞进","password":"1533451842161b6eb6bb2e9932c69d74bb302d953ecdc55c82a1759a41c6ef6c","sid":150104261}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf0e"},"courses":[],"grade":4,"name":"杨通瑞","password":"8723900ecefef4be1ca8f2021d0f6ba400a7624ec3f0a6b0ba37b3e86f40d87e","sid":150104262}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf0f"},"courses":[],"grade":4,"name":"唐有菊","password":"f5be0f366a14f1107709d9e220eb8a0a8ee626c3cabaf94f4fba581927c6e71c","sid":150104263}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf10"},"courses":[],"grade":4,"name":"张明福","password":"c1d2932c5207827ff1d80b0eeb8d8e886dd20bfb4fd586141fc916f5295d3ec6","sid":150104264}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf11"},"courses":[],"grade":4,"name":"田永珍","password":"5914779331c9123bfa84af4b7e558155f8108e20d811eccb1db36d2f7e28fd50","sid":150104265}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf12"},"courses":[],"grade":4,"name":"熊天才","password":"8609732fe3a6b59c244fcee976926c27ee6a6bf97f92cf6293e863b31652e26f","sid":150104266}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf13"},"courses":[],"grade":4,"name":"龙敏婷","password":"0a154e991c84fe3441f464a594b763445ca6901302642572c693c0ffc2f87738","sid":150104267}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf14"},"courses":[],"grade":4,"name":"吴秀权","password":"ca6722e5d41c188318d98f0afbfac5cccdcef500d6225d6f30dd737bd325f6be","sid":150104268}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf15"},"courses":[],"grade":4,"name":"杨文秀","password":"57e717329702ab9802cfae2c7eb4a74658882aa89a359477cca8ec436e7e52f9","sid":150104269}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf16"},"courses":[],"grade":4,"name":"龙开兴","password":"93f2f65521ed0581ffd48a2673008e2d4d03ff47020add86fddf224b5b3a0b7c","sid":150104270}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf17"},"courses":[],"grade":4,"name":"李德群","password":"ce81c03407e0e6fdaf4887784c1de68c63880d446a14aa47813bf5618109669c","sid":150104271}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf18"},"courses":[],"grade":4,"name":"杨福忠","password":"31809298ee944a223d189eda3455f38e5cb42427fc19b0b2a796e51bb1ef6ea1","sid":150104272}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf19"},"courses":[],"grade":4,"name":"张安成","password":"e3fdf67e88b7b4a103ca7f2981cc4f69994c1c54aca1329b7232cb6f0d5f6b78","sid":150104273}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf1a"},"courses":[],"grade":4,"name":"陆才军","password":"8cbbe32cf09168c982818734a1d8bdfd79e8ca4257967034a038d961fda9130b","sid":150104274}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf1b"},"courses":[],"grade":4,"name":"何鑫宏","password":"60d403c20c767854fc47fd676f78fa550e142e8131c0e75b8157a708bac2663b","sid":150104275}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf1c"},"courses":[],"grade":4,"name":"唐有超","password":"ad338707ecc3b02ae5db8141d97aae488cc77e557a11f7eb23883ddbab911d46","sid":150104276}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf1d"},"courses":[],"grade":4,"name":"全宗品","password":"4b928e29a0ca4bb39d6faa4aa7b768502182f0825e6b511d6392a884ffe0d41d","sid":150104277}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf1e"},"courses":[],"grade":4,"name":"江廷涛","password":"c54f23b2ce614b1c19b55ff015f9c975076dcd5a79980c4c77ffe5c84e50b66d","sid":150104278}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf1f"},"courses":[],"grade":4,"name":"梁  强","password":"9608275abb79ff167e3788d87a9aa009abf29a5c2f875c2eca9dba94202c599d","sid":150104279}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf20"},"courses":[],"grade":4,"name":"潘成坤","password":"50c1fef2d29dfe1bcc17f678c04ec44aa554579370af61390283b0cd0779370a","sid":150104280}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf21"},"courses":[],"grade":4,"name":"尹世群","password":"33b6c6a5ea15e1b0960f866001d3fd4ffa3a458dc7be9966822bc7288f61db89","sid":150104281}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf22"},"courses":[],"grade":4,"name":"袁  浪","password":"063737e8c52a242301feb2c333c47c9ef41e26569dad81744be9954a5f9d23c6","sid":150104282}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf23"},"courses":[],"grade":4,"name":"蔡明露","password":"5f3e0131db75cf98594ac51102992a599bc9e2cac38ab9429dffea67e1b40168","sid":150104283}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf24"},"courses":[],"grade":4,"name":"吴碧香","password":"803ad1184d4c9738fe17f0c7c631f8f36446b904f16b82ff28dc68dd50b01847","sid":150104284}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf25"},"courses":[],"grade":4,"name":"杨  柳","password":"0efdf5f587200e70a627b7b0e1abd49062482d95cb2636850e8b914ac9f01fab","sid":150104285}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf26"},"courses":[],"grade":4,"name":"张灿怡","password":"82ecb0695dbf692697300542cc8bf0b033a92c61182eaf331fd45b890d1854aa","sid":150104286}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf27"},"courses":[],"grade":4,"name":"杭念念","password":"0e0e040be7d48352d58aba70cd351d78c81f7986a273a1baee62a8f603dc01ad","sid":150104287}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf28"},"courses":[],"grade":4,"name":"邰世兰","password":"715fd970a0f5ca4c01af824a13bc0b1cfc52412531151ad0a55093f51ff09ac8","sid":150104288}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf29"},"courses":[],"grade":4,"name":"蒋子文","password":"90baa4fb3d79b0108acc170d9f29692e5610ee45416e94f61e3573c120e60358","sid":150104289}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf2a"},"courses":[],"grade":4,"name":"毛佳丽","password":"5c6f3b4e930bf76add1c4711a5a7127aacbf6e007315f8a7f6f7966ce113b7ae","sid":150104290}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf2b"},"courses":[],"grade":4,"name":"杨宇","password":"1757daa794a6a7bc25c9ba4ed0ff8e1e8b26db7b6ae78c969ba3438766db2708","sid":150104291}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf2c"},"courses":[],"grade":4,"name":"李  丹","password":"7220364778d9c6d1c730f597292fdffbac86c792a71bb77db599b7ced2c4cac6","sid":150104292}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf2d"},"courses":[],"grade":4,"name":"魏启波","password":"4c642ef47e42ec6fcb1757270e56bf4fbd8511434fe56ebef1197410fbf0ae3e","sid":150104293}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf2e"},"courses":[],"grade":4,"name":"李朝才","password":"552bfe711acfd3d0693e1d9c5406cf6f91ec63505b677bf60230b4f878f903b1","sid":150104294}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf2f"},"courses":[],"grade":4,"name":"陆  英","password":"14e29994b133b626fe4cc3456a37c70cf7854e661f6225d10e8c38646f053f1a","sid":150104295}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf30"},"courses":[],"grade":4,"name":"张梦娇","password":"93b946438d7cf48ad6fbccd199282a68cbef6fa9834536df0c74d7d17ac89e62","sid":150104296}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf31"},"courses":[],"grade":4,"name":"田万敏","password":"c3c268ce3e8e43474f05b7afbf44e6e5df301895fcb3bc99b5aefb5d646ca8f6","sid":150104297}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf32"},"courses":[],"grade":4,"name":"姚俊","password":"241259811743f76bf46c193d20a3f043e0b36e0b7bcc4e05ecd1ff58d6440413","sid":150104298}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf33"},"courses":[],"grade":4,"name":"龙开萍","password":"e451847bd73241a4b6d1b75343f1641f7e21339ab8ffbc9bfd863861fbcefafe","sid":150104299}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf34"},"courses":[],"grade":4,"name":"潘程燕","password":"9799611a3187678d5ac2c8133211f24f7a4d538cf020c5460e26d0bcede8982c","sid":150104300}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf35"},"courses":[],"grade":4,"name":"陈远琴","password":"76f14bae82cc59ae689141f393609621804c23c143e20b1f2b60cb9d977a6c2f","sid":150104301}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf36"},"courses":[],"grade":4,"name":"刘胡林","password":"84d75ad1435bce3252555646d11f92e35444dc983a9a5a6acf685048caba65cc","sid":150104302}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf37"},"courses":[],"grade":4,"name":"何天隆","password":"c10c7b0c098fa34da26eb60c95d75bc62356be4c6343040eaf169610ed21da76","sid":150104303}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf38"},"courses":[],"grade":4,"name":"雷海明","password":"4f112ee3184f93c11e838b90825cd22acca44a6657f15b6848a31c16da3e1a83","sid":150104304}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf39"},"courses":[],"grade":4,"name":"陈婷婷","password":"624dc0409d49c8298b1e25769ed153e0570fb37735f32e658bcba919214b54c4","sid":150104305}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf3a"},"courses":[],"grade":5,"name":"梁旭","password":"6803ebff190c4d04a0681d7fa4825bb53582580a8fb336b62af48bfad392c000","sid":150104307}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf3b"},"courses":[],"grade":5,"name":"罗羽","password":"522ba1db23103e8e8a3df96c5868542599c1fae2e2b450c14d4989415f683650","sid":150104308}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf3c"},"courses":[],"grade":5,"name":"袁树平","password":"976c27502ad1a3abe70e170b3836fe59e4f6ac962638dffa3efa9f1dcacf6f69","sid":150104309}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf3d"},"courses":[],"grade":5,"name":"杨  宏","password":"38184142450a33ffaaeeb120f7ebe23676d98876d80318e910430a6a66e917d7","sid":150104310}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf3e"},"courses":[],"grade":5,"name":"阳莎莎","password":"bcabfabe86ea49776576692c711dccb7a6fcb3849eb4e992b8f121bb74ca353c","sid":150104311}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf3f"},"courses":[],"grade":5,"name":"蒋  涛","password":"dd8a4cb320b106934efa804ddbe977841a7d96b02032f878dc549f50ce5b7a80","sid":150104312}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf40"},"courses":[],"grade":5,"name":"罗征明","password":"e2eb5a9fd42ed5bffa600085c72632e47333a51653f5903f1faccad8582ec316","sid":150104313}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf41"},"courses":[],"grade":5,"name":"邰金平","password":"4f66f1a6288ad11824fb810bbab242ccc59926ca7827c0cb2e9c7e623d5d2a54","sid":150104314}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf42"},"courses":[],"grade":5,"name":"龙开飞","password":"c0d0f62240234341cf76d743a94a9fb1e107d2610da50c3988a133836f85bed6","sid":150104315}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf43"},"courses":[],"grade":5,"name":"梁明艳","password":"6533fb4ab4f44ac4c27cb6d118e5651376a23bad2da77fa8ccb3e38a65ca1420","sid":150104316}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf44"},"courses":[],"grade":5,"name":"龙娇娇","password":"9720df81566d61be89dd31c7add745535b0e3aeb1e54f355b620b6b21409ff81","sid":150104317}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf45"},"courses":[],"grade":5,"name":"杨茂林","password":"42e44112e568229b0867050409975e3598937883b32ed165b8eeeeb264f3f02c","sid":150104318}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf46"},"courses":[],"grade":5,"name":"杨秀娟","password":"9f1dba61fdaebc3804e794bcbfa9d2d262239757f857d3fd0ce97c37088bf68e","sid":150104319}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf47"},"courses":[],"grade":5,"name":"罗安星","password":"7e8c16cc2c6b01e3da3f5936572140f16b8b72ffe54f7317b272f40e8e505373","sid":150104320}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf48"},"courses":[],"grade":5,"name":"杨政群","password":"b1193f70df7278d82fce0a36237d70ec5acc02c3433acbfa6dddc95d51b6bec2","sid":150104321}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf49"},"courses":[],"grade":5,"name":"杨　飞","password":"4c10e96654eaa83382eec68d7b9902c98ed56c9348c0385da7a0bfc27e42a147","sid":150104322}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf4a"},"courses":[],"grade":5,"name":"欧阳涌","password":"99c877828aac7514053334610f867a1c29f37d78850b76829a942d1e20de9e0c","sid":150104323}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf4b"},"courses":[],"grade":5,"name":"龙  琴","password":"778c6a64617dd78cca01dd9372f4bfc041d7f136f75f6e7e06ee819ac25d4e96","sid":150104324}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf4c"},"courses":[],"grade":5,"name":"唐邦木","password":"6790867668d5eba69439a3a4efd770aab120f10a2e697c583003a0f4e48ef87d","sid":150104325}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf4d"},"courses":[],"grade":5,"name":"杨光兰","password":"dcccf9ff75e9c5d7128c9a543ecaa990fa8d5022d91279f507d978dd0b92e7b4","sid":150104326}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf4e"},"courses":[],"grade":5,"name":"杨光桃","password":"b11277e238facd4a22f4c82546ba3cd2bf0c35c25a45dbbf2b929237beb09c03","sid":150104327}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf4f"},"courses":[],"grade":5,"name":"龙帮菊","password":"cc3231247b016efce9b47f908992a05c5da23a7cf64c4933e96bdb59ec19eb7e","sid":150104328}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf50"},"courses":[],"grade":5,"name":"罗凯敏","password":"e454e22945adba2845f820656b074ecce05d5ad4873c92a5c050f09197d83721","sid":150104329}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf51"},"courses":[],"grade":5,"name":"毛昌玉","password":"045a1d43dd4cf2f893bbd313bf8e7ea88da0f715e6b00ce843657fb81b242555","sid":150104330}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf52"},"courses":[],"grade":5,"name":"龙  娇","password":"e01b3a10fe6acebea5cacdf18a3b63d89edea4c6c962254bd6eee8c38cd5cc81","sid":150104331}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf53"},"courses":[],"grade":5,"name":"吴锡欢","password":"76c1cc8a6896fe684867935a9366213d875fcd3f3d6551985b9276d3168c6fb1","sid":150104332}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf54"},"courses":[],"grade":5,"name":"杨  红","password":"b5207eb8c9a00ae67550d5358cad9fd2c380dc2c4af38161053c20b61c21695c","sid":150104333}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf55"},"courses":[],"grade":5,"name":"张明富","password":"f17e46825a8cd567f476099e0664185d9e587bd2b478bece1649d7b6ecf120ab","sid":150104334}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf56"},"courses":[],"grade":6,"name":"罗征发","password":"979bb257b4f91f4f593ff5fb39ed0d3030c6f068b3248b30214e4e8cfbef62c5","sid":150104335}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf57"},"courses":[],"grade":6,"name":"陈礼杰","password":"1c65fd42e2a89d6971666f0cf90592d744f25613cef1fcc4058cf495899cf8cf","sid":150104336}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf58"},"courses":[],"grade":6,"name":"冉凯凯","password":"b28a352d89be025b45e1c3d37e4d243f84bbd24bf305735c8dbf838d7074b313","sid":150104337}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf59"},"courses":[],"grade":6,"name":"杨政舟","password":"81af86ea64172a1a64694991a7fbc7cd406e4aa02fe47af2861da857711ef3e3","sid":150104338}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf5a"},"courses":[],"grade":6,"name":"杨武琴","password":"9f4c51c803b385054df9bb4ecc8778e63e073c6a925559418f7c594c13127af4","sid":150104339}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf5b"},"courses":[],"grade":6,"name":"阳敏","password":"53f2fccf74dc1b2d5dff52e08afd1e2dd31cbca008d49aa8849d9eb6d0832c63","sid":150104340}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf5c"},"courses":[],"grade":6,"name":"左启华","password":"e158908aa6276f60ebac9c9fd24308da538b3234a7e91fa5f1e6caf0488449b9","sid":150104341}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf5d"},"courses":[],"grade":6,"name":"肖红萍","password":"d611ce0936722d94073a6d4107fd70a0f6b44d431b347e8b9742b3fbdc66324a","sid":150104342}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf5e"},"courses":[],"grade":6,"name":"陈礼彪","password":"2fedca8f4bb4835e62357ea05978eba3ee285c9e48e97cdd9d32faa2a1128b8d","sid":150104343}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf5f"},"courses":[],"grade":6,"name":"杨通林","password":"1efaf09b9822d88d13e18678ee7dc6d31294ca259c38eaf079b736ee676bef10","sid":150104344}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf60"},"courses":[],"grade":6,"name":"杨  坤","password":"37cd2a77cd50f94493ff899dd07e783323ab00d38d4768fe6012b2047f359837","sid":150104345}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf61"},"courses":[],"grade":6,"name":"冯朱吉","password":"95e2944254e8b2e825f6768d67d91af49b61e33bbd481f6a71b58a50ba6ff674","sid":150104346}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf62"},"courses":[],"grade":6,"name":"张  俊","password":"6735653239edc741dfe8ea82033c9d55918e203814e02c34b2f2b9699310253e","sid":150104347}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf63"},"courses":[],"grade":6,"name":"罗世玉","password":"fd4bf30d41823779207dc890cb73b55bc8b5b1c59ad8f01598c6798a0fbd57ac","sid":150104348}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf64"},"courses":[],"grade":6,"name":"杨胜敏","password":"ba618430d197d4d33fb8c4b4687719ea26200fc6cea3c6cfa64fb86c09ff2c8b","sid":150104349}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf65"},"courses":[],"grade":6,"name":"张吉斌","password":"9a90866c506162fb6c956a89d6272ff62482d9e43554454abfab91aa81067ccb","sid":150104350}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf66"},"courses":[],"grade":6,"name":"杨泽","password":"09a467c981224d7f67af9095c3366de076c032dea1e80fea25e18aecad247774","sid":150104351}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf67"},"courses":[],"grade":6,"name":"魏丞尧","password":"ec3ffc2fc92d0733ef5d15187fdab0f2ea1bb16c95974956cf8dba8986ad4cfa","sid":150104352}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf68"},"courses":[],"grade":6,"name":"吴朝海","password":"ab247a2feb441991828494a025ea360a5f1685874325293f792f89cd409df10b","sid":150104353}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf69"},"courses":[],"grade":6,"name":"张武军","password":"c775fa05b13cffe2d6571747e621779315de384dd007d033d96ed32b6d9d5b2f","sid":150104354}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf6a"},"courses":[],"grade":6,"name":"唐姚","password":"5b9bb3059d6202a0ab46b4f10f68f92ad825291757fce7e73120b16a0750f918","sid":150104355}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf6b"},"courses":[],"grade":6,"name":"魏发弟","password":"6395dc7ce749b9b1d74cce284151d86544c444a6431815ad02d180b68d7e15d9","sid":150104356}
+{"__v":0,"_id":{"$oid":"58c35f99afddd41d1cebcf6c"},"courses":[],"grade":6,"name":"潘成倩","password":"46574b0ece4d8a72d6f1fafa26bac6e75c3d630cd311e10450254beb812ae9dc","sid":150104357}
